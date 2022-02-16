@@ -65,6 +65,8 @@ class ViewController: UIViewController {
         else
         {
             
+            Blue.image = UIImage(named: "225px-Solid_blue.svg")
+            Red.image = UIImage(named: "download")
             
             Blue.isHidden = true
             Red.isHidden = false
